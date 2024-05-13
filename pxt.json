@@ -1,0 +1,46 @@
+{
+    "name": "Star",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.51",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#1FFFFB",
+        "#40D82C",
+        "#919191",
+        "#ADADA9",
+        "#5C5C5C",
+        "#000000",
+        "#003FAD",
+        "#142371",
+        "#075B01",
+        "#A4839F",
+        "#8E00E0",
+        "#F7C845",
+        "#BC7ED3",
+        "#000000"
+    ]
+}

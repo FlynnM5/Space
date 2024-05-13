@@ -1,0 +1,28 @@
+{
+    "nextPaletteID": 1,
+    "palettes": {
+        "custom0": {
+            "id": "custom0",
+            "name": "Space Drop",
+            "colors": [
+                "#000000",
+                "#FFFFFF",
+                "#1FFFFB",
+                "#40D82C",
+                "#919191",
+                "#ADADA9",
+                "#5C5C5C",
+                "#000000",
+                "#003FAD",
+                "#142371",
+                "#075B01",
+                "#A4839F",
+                "#8E00E0",
+                "#F7C845",
+                "#BC7ED3",
+                "#000000"
+            ],
+            "custom": true
+        }
+    }
+}
